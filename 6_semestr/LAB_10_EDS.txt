@@ -1,0 +1,2 @@
+RSA_Example: 65537;65537;157
+ElGamal_Example: 65537;113
