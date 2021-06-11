@@ -1,0 +1,10 @@
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\bin\Debug\LAB_8.exe.config
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\bin\Debug\LAB_8.exe
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\bin\Debug\LAB_8.pdb
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\obj\Debug\LAB_8.csprojAssemblyReference.cache
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\obj\Debug\LAB_8.Form1.resources
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\obj\Debug\LAB_8.Properties.Resources.resources
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\obj\Debug\LAB_8.csproj.GenerateResource.cache
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\obj\Debug\LAB_8.csproj.CoreCompileInputs.cache
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\obj\Debug\LAB_8.exe
+E:\Study\Urbanovich_Labi\5_semestr\LAB_8\LAB_8\obj\Debug\LAB_8.pdb

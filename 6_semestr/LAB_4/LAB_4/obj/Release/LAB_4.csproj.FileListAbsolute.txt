@@ -1,0 +1,14 @@
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\bin\Release\LAB_4.exe.config
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\bin\Release\LAB_4.exe
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\bin\Release\LAB_4.pdb
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.csprojAssemblyReference.cache
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.Form1.resources
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.Properties.Resources.resources
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.ReflectorTable.resources
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.RotorTable.resources
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.SetValue.resources
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.TextBuffer.resources
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.csproj.GenerateResource.cache
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.csproj.CoreCompileInputs.cache
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.exe
+E:\Study\ZIiNIS\LABS\LAB_4\LAB_4\obj\Release\LAB_4.pdb

@@ -1,0 +1,13 @@
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\bin\Debug\LAB_2.exe.config
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\bin\Debug\LAB_2.exe
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\bin\Debug\LAB_2.pdb
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.csprojAssemblyReference.cache
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.Form1.resources
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.Properties.Resources.resources
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.csproj.GenerateResource.cache
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.csproj.CoreCompileInputs.cache
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.exe
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.pdb
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.CaesarEncode.resources
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.TrisemusTableEncode.resources
+E:\Study\ZIiNIS\LABS\LAB_2\LAB_2\obj\Debug\LAB_2.Histogram.resources

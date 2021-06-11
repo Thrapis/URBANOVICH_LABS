@@ -1,0 +1,11 @@
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\bin\Debug\LAB_8.exe.config
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\bin\Debug\LAB_8.exe
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\bin\Debug\LAB_8.pdb
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\obj\Debug\LAB_8.csprojAssemblyReference.cache
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\obj\Debug\LAB_8.Properties.Resources.resources
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\obj\Debug\LAB_8.csproj.GenerateResource.cache
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\obj\Debug\LAB_8.csproj.CoreCompileInputs.cache
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\obj\Debug\LAB_8.exe
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\obj\Debug\LAB_8.pdb
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\obj\Debug\LAB_8.Form1.resources
+E:\Study\ZIiNIS\LABS\LAB_8\LAB_8\obj\Debug\LAB_8.InfoPage.resources

@@ -1,0 +1,10 @@
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\bin\Debug\LAB_1.exe.config
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\bin\Debug\LAB_1.exe
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\bin\Debug\LAB_1.pdb
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\obj\Debug\LAB_1.csprojAssemblyReference.cache
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\obj\Debug\LAB_1.Form1.resources
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\obj\Debug\LAB_1.Properties.Resources.resources
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.GenerateResource.cache
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.CoreCompileInputs.cache
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\obj\Debug\LAB_1.exe
+E:\Study\ZIiNIS\LABS\LAB_1\LAB_1\obj\Debug\LAB_1.pdb

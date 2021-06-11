@@ -1,0 +1,13 @@
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\bin\Debug\LAB_3.exe.config
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\bin\Debug\LAB_3.exe
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\bin\Debug\LAB_3.pdb
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.csprojAssemblyReference.cache
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.Histogram.resources
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.Properties.Resources.resources
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.csproj.GenerateResource.cache
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.csproj.CoreCompileInputs.cache
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.exe
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.pdb
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.Main.resources
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.MultiplePermutation.resources
+E:\Study\ZIiNIS\LABS\LAB_3\LAB_3\obj\Debug\LAB_3.RoutePermutation.resources

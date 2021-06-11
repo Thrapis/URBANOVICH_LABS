@@ -1,0 +1,13 @@
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\obj\Debug\LAB_4.csprojAssemblyReference.cache
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\obj\Debug\LAB_4.Form1.resources
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\obj\Debug\LAB_4.Properties.Resources.resources
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\obj\Debug\LAB_4.csproj.GenerateResource.cache
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\obj\Debug\LAB_4.csproj.CoreCompileInputs.cache
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\bin\Debug\LAB_4.exe.config
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\bin\Debug\LAB_4.exe
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\bin\Debug\LAB_4.pdb
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\bin\Debug\MathNet.Numerics.dll
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\bin\Debug\MathNet.Numerics.xml
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\obj\Debug\LAB_4.csproj.CopyComplete
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\obj\Debug\LAB_4.exe
+E:\Study\Urbanovich_Labi\5_semestr\LAB_4\LAB_4\obj\Debug\LAB_4.pdb

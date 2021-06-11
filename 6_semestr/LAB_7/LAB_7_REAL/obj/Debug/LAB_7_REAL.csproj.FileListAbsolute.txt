@@ -1,0 +1,11 @@
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\bin\Debug\LAB_7_REAL.exe.config
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\bin\Debug\LAB_7_REAL.exe
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\bin\Debug\LAB_7_REAL.pdb
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\obj\Debug\LAB_7_REAL.csprojAssemblyReference.cache
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\obj\Debug\LAB_7_REAL.Properties.Resources.resources
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\obj\Debug\LAB_7_REAL.csproj.GenerateResource.cache
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\obj\Debug\LAB_7_REAL.csproj.CoreCompileInputs.cache
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\obj\Debug\LAB_7_REAL.exe
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\obj\Debug\LAB_7_REAL.pdb
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\obj\Debug\LAB_7_REAL.EncryptionInfo.resources
+E:\Study\ZIiNIS\LABS\LAB_7\LAB_7_REAL\obj\Debug\LAB_7_REAL.Form1.resources
